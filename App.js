@@ -18224,7 +18224,7 @@
     var _arnauorriols$multitaskos$Main$viewInitialHelpCard = _arnauorriols$multitaskos$Helpcard$view(
         {
             ctor: '::',
-            _0: _arnauorriols$multitaskos$Helpcard$text('Welcome to our OS Project Rashmi ma\'am!'),
+            _0: _arnauorriols$multitaskos$Helpcard$text('Welcome to our OS Project!'),
             _1: {
                 ctor: '::',
                 _0: _arnauorriols$multitaskos$Helpcard$bulletlist(
